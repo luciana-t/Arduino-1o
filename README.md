@@ -9,6 +9,6 @@ Luciana Tavares - 85270
 
 Rafael Brum - 89366
 
-Exercício 1: [Parte1] (https://www.tinkercad.com/things/elZh2S2EOET)
+Exercício 1: [Parte1](https://www.tinkercad.com/things/elZh2S2EOET)
 
-             [Parte2] (https://www.tinkercad.com/things/lGywAGGgeAs)
+[Parte2](https://www.tinkercad.com/things/lGywAGGgeAs)
